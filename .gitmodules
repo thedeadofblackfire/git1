@@ -1,0 +1,6 @@
+[submodule "src/super-cool"]
+	path = src/super-cool
+	url = https://github.com/thedeadofblackfire/git2
+[submodule "src/git3"]
+	path = src/git3
+	url = https://github.com/thedeadofblackfire/git3
